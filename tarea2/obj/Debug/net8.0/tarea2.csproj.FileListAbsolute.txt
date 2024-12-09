@@ -12,3 +12,4 @@ c:\Users\domen\Downloads\primer `parcial\tarea2\obj\Debug\net8.0\refint\tarea2.d
 c:\Users\domen\Downloads\primer `parcial\tarea2\obj\Debug\net8.0\tarea2.pdb
 c:\Users\domen\Downloads\primer `parcial\tarea2\obj\Debug\net8.0\tarea2.genruntimeconfig.cache
 c:\Users\domen\Downloads\primer `parcial\tarea2\obj\Debug\net8.0\ref\tarea2.dll
+c:\Users\domen\Downloads\primer `parcial\tarea2\obj\Debug\net8.0\tarea2.sourcelink.json
